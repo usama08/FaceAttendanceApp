@@ -1,0 +1,16 @@
+const splash = "assets/images/splashscreen.png";
+const splashimage1 = "assets/images/onBoarding1.png";
+const splashimage2 = "assets/images/21221212 1.png";
+const splashimage3 = "assets/images/onboarding3.png";
+const loginpng = "assets/images/loginscreen.png";
+const mark = "assets/images/attendancemark.png";
+const mark2 = "assets/images/withback.png";
+const mapmark = "assets/images/map.png";
+const checkin = "assets/images/checkin.png";
+const checkkout = "assets/images/checkoutpng.png";
+const mapscreen = "assets/images/mapscreen.png";
+const maskgroup = "assets/images/maskgroup.png";
+const loginback = "assets/images/backgroundlogin.png";
+const maark = "assets/images/maark.png";
+const addpic = "assets/images/addpic.png";
+const delpic = "assets/images/deletepic.png";
