@@ -3,23 +3,23 @@ class Apis {
   static const baseUrl = 'https://differenttankayak97.conveyor.cloud/';
 
   /// liginapi  //
-  static const logInApi = '${baseUrl}Api/User';
+  static const logInApi = '${baseUrl}ddfdsfe';
 
   /// previous 30 days data //
-  static const attendacedata = '${baseUrl}Api/AttendanceData';
+  static const attendacedata = '${baseUrl}Api/fdfrnjd';
 
   /// check attendaus before if mark  //
-  static const checkmark = '${baseUrl}Api/AttendanceBetweenTwoDates';
+  static const checkmark = '${baseUrl}Api/dfnefbs';
 
   /// mark Attendance api ///
-  static const markattendance = '${baseUrl}Api/MarkAttendance';
+  static const markattendance = '${baseUrl}Api/ddjjrni';
   ////  show status  ///
-  static const status = '${baseUrl}Api/AttendanceStatus';
+  static const status = '${baseUrl}Api/djjdie';
 
   /// last five days data   //
-  static const lastfivedays = '${baseUrl}Api/AttendanceData';
+  static const lastfivedays = '${baseUrl}Api/dbhdbvrh';
 
   /// all attendance details  ///
-  static const allattendancedata = '${baseUrl}Api/AttendanceBetweenTwoDates';
-  static const leaverequest = '${baseUrl}Api/LeaveRequest';
+  static const allattendancedata = '${baseUrl}Api/fbvfhbdj';
+  static const leaverequest = '${baseUrl}Api/jibnd';
 }
